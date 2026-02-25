@@ -1,4 +1,4 @@
-#Shortest Job First Scheduling when Arrival Time = 0.(we used bubble sort to solve the question)
+//Shortest Job First Scheduling when Arrival Time = 0.(we used bubble sort to solve the question)
 
 #include<stdio.h>
 
